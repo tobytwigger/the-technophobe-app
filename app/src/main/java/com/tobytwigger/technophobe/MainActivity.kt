@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.example.android.navigation
+package com.tobytwigger.technophobe
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
-import com.example.android.navigation.databinding.ActivityMainBinding
+import com.tobytwigger.technophobe.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

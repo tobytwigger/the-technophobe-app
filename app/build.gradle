@@ -30,7 +30,7 @@ android {
         enabled = true
     }
     defaultConfig {
-        applicationId 'com.example.android.navigation'
+        applicationId 'com.tobytwigger.technophobe'
         minSdkVersion 23
         targetSdkVersion 28
         vectorDrawables.useSupportLibrary = true

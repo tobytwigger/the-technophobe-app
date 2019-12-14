@@ -1,4 +1,4 @@
-package com.example.android.navigation
+package com.tobytwigger.technophobe
 
 import android.os.Bundle
 import androidx.preference.PreferenceFragmentCompat

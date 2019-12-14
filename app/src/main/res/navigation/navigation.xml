@@ -7,16 +7,16 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.android.navigation.HomeFragment"
+        android:name="com.tobytwigger.technophobe.HomeFragment"
         android:label="@string/home_label"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/aboutFragment"
-        android:name="com.example.android.navigation.AboutFragment"
+        android:name="com.tobytwigger.technophobe.AboutFragment"
         android:label="@string/about"
         tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.example.android.navigation.SettingsFragment"
+        android:name="com.tobytwigger.technophobe.SettingsFragment"
         android:label="SettingsFragment" />
 </navigation>

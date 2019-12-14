@@ -1,24 +1,21 @@
-package com.example.android.navigation.fragments
+package com.tobytwigger.technophobe.fragments
 
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkInfo
-import android.net.NetworkSpecifier
 import android.net.wifi.WifiConfiguration
 import android.net.wifi.WifiInfo
 import android.net.wifi.WifiManager
 import android.os.Bundle
 import android.preference.PreferenceManager
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
-import com.example.android.navigation.R
-import com.example.android.navigation.databinding.FragmentsFragmentPaperMissingBinding
-import java.util.logging.Logger
+import com.tobytwigger.technophobe.R
+import com.tobytwigger.technophobe.databinding.FragmentsFragmentPaperMissingBinding
 
 class PaperMissing : Fragment() {
 

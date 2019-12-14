@@ -1,4 +1,4 @@
-package com.example.android.navigation
+package com.tobytwigger.technophobe
 
 
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
-import com.example.android.navigation.databinding.FragmentHomeBinding
+import com.tobytwigger.technophobe.databinding.FragmentHomeBinding
 
 /**
  * A simple [Fragment] subclass.
